@@ -2,7 +2,6 @@
 ## Overview
 
 This C++ project demonstrates a Windows service that starts at system startup and injects a DLL shellcode into a random process using manual mapping. The project allows users to inject custom shellcode into running processes without leaving traces on the disk, making it an effective way to achieve stealthy code execution.
-**Disclaimer:**This project is intended for educational purposes only. Unauthorized DLL injection may violate the terms of service of certain applications and can lead to legal consequences. Use this project responsibly and only on systems you own or have explicit permission to access. See below for ethical use cases.
 
 ## Ethical Uses
 
